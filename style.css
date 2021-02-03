@@ -1,7 +1,21 @@
 body {
-  background-color: #b4d455;
-  color: yellow;
+  background-color: #fefefe;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  height: 100vh;
+
 }
+div {
+  max-width: 700px;
+  margin: auto;
+  display: grid;
+  place-content: center;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  content-visibility: auto;/*Lazy load when not in sight on chromium*/
+}
+
+
 
 
