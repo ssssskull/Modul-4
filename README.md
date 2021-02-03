@@ -1,4 +1,4 @@
 # Modul-4
 ## Beskrivelse
-> Dababy is my favorite rapper ⛷️
-> Dababy car (https://pbs.twimg.com/media/EplxgCjXMAEvoq9.jpg) *VIGTIGT*
+> KANYE is my favorite rapper ⛷️
+git> Dababy car (https://pbs.twimg.com/media/EplxgCjXMAEvoq9.jpg) *VIGTIGT*
